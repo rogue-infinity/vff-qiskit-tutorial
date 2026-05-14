@@ -1,0 +1,7 @@
+qiskit>=2.0
+qiskit-aer>=0.11.2
+qiskit-ibm-runtime>=0.21
+scipy
+matplotlib
+jupyter
+ipykernel
